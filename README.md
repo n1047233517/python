@@ -1,1 +1,1 @@
-# python_test
+这个README是一个我用来学习python语言的记录文件
